@@ -2,6 +2,7 @@
 
 A collection of Python programming assignments and practice programs completed as part of my MCA coursework.
 
+
 ## 📚 Topics Covered
 
 ### Conditional Statements
@@ -13,12 +14,14 @@ A collection of Python programming assignments and practice programs completed a
 - Number divisibility checks
 - Grade and result calculations
 - `match-case` statements
+  
 
 ## 🛠️ Technologies Used
 
 - **Language:** Python
 - **Editor:** Visual Studio Code
 - **Version Control:** Git and GitHub
+  
 
 ## ▶️ How to Run the Programs
 
@@ -42,16 +45,16 @@ A collection of Python programming assignments and practice programs completed a
    ```
 
    Replace `Question-01.py` with the filename you want to execute.
+   
 
 ## 🎯 Purpose
 
 This repository is maintained for academic learning, Python programming practice, and tracking my progress throughout my MCA journey.
 
+
 ## 👨‍💻 Author
 
-**Pratik**
-
-GitHub: [@daredevil0005](https://github.com/daredevil0005)
+**Pratik Dabhane**
 
 ---
 
