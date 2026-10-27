@@ -5,8 +5,8 @@ A collection of Python programming assignments completed as part of my MCA cours
 ## Topics Covered
 - Conditional Statements
 - Loops
-- String Operations
-- Basic Python Programs
+- String Operations and Methods
+- List Operations and Methods
 
 ## Technologies Used
 - Python
