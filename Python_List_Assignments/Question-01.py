@@ -1,3 +1,12 @@
-'''\nQuestion 1: Empty list and append 5 integers.\n'''\n\na=[]
-for n in [10,20,30,40,50]: a.append(n)
-print(a)\n
+'''
+add 5 integers using append()
+'''
+
+numbers = []
+numbers.append(10)
+numbers.append(20)
+numbers.append(30)
+numbers.append(40)
+numbers.append(50)
+
+print(numbers)

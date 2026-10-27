@@ -1,3 +1,8 @@
-'''\nQuestion 2: Append a string to a string list.\n'''\n\nfruits=["Apple","Banana","Mango"]
+'''
+append a string
+'''
+
+fruits = ["Apple", "Banana", "Mango"]
 fruits.append("Orange")
-print(fruits)\n
+
+print(fruits)
