@@ -11,14 +11,14 @@ choice = int(input("Enter your choice: "))
 
 match choice:
     case 1:
-        print("Balance: ₹", balance)
+        print("Balance: ", balance)
 
     case 2:
         amount = float(input("Enter deposit amount: "))
         if amount > 0:
             balance = balance + amount
             print("Deposited successfully")
-            print("Updated balance: ₹", balance)
+            print("Updated balance: ", balance)
         else:
             print("Invalid amount")
 
@@ -27,7 +27,7 @@ match choice:
         if amount > 0 and amount <= balance:
             balance = balance - amount
             print("Withdrawal successful")
-            print("Remaining balance: ₹", balance)
+            print("Remaining balance: ", balance)
         elif amount <= 0:
             print("Invalid amount")
         else:
