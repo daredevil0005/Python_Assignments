@@ -1,2 +1,7 @@
-'''\nQuestion 13: Find element index using index().\n'''\n\na=["Apple","Banana","Mango","Orange"]
-print(a.index("Mango"))\n
+'''
+find index of an element
+'''
+
+fruits = ["Apple", "Banana", "Mango", "Orange"]
+
+print(fruits.index("Mango"))
