@@ -1,2 +1,7 @@
-'''\nQuestion 27: Convert a list into tuple.\n'''\n\na=[10,20,30,40]
-print(tuple(a))\n
+'''
+convert list into tuple
+'''
+
+numbers = [10, 20, 30, 40]
+
+print(tuple(numbers))

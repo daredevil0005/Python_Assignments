@@ -1,3 +1,8 @@
-'''\nQuestion 30: Sort strings alphabetically.\n'''\n\na=["Mango","Apple","Orange","Banana"]
-a.sort()
-print(a)\n
+'''
+sort strings alphabetically
+'''
+
+fruits = ["Mango", "Apple", "Orange", "Banana"]
+fruits.sort()
+
+print(fruits)
