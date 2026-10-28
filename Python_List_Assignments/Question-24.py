@@ -1,2 +1,8 @@
-'''\nQuestion 24: Find average of elements.\n'''\n\na=[10,20,30,40,50]
-print("Average:",sum(a)/len(a))\n
+'''
+find average of elements
+'''
+
+numbers = [10, 20, 30, 40, 50]
+average = sum(numbers) / len(numbers)
+
+print(average)

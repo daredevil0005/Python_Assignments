@@ -1,3 +1,10 @@
-'''\nQuestion 25: Check whether list is empty.\n'''\n\na=[]
-if not a: print("List is empty")
-else: print("List is not empty")\n
+'''
+check if a list is empty
+'''
+
+items = []
+
+if not items:
+    print("List is empty")
+else:
+    print("List is not empty")
