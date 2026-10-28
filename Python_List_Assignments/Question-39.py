@@ -1,3 +1,8 @@
-'''\nQuestion 39: Create nested list and access inner elements.\n'''\n\na=[[1,2,3],[4,5,6],[7,8,9]]
-print("Second inner list:",a[1])
-print("Row 2, column 3:",a[1][2])\n
+'''
+access elements in a nested list
+'''
+
+items = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+
+print(items[1])
+print(items[1][2])
