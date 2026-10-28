@@ -1,6 +1,13 @@
-'''\nQuestion 34: Find common elements of two lists.\n'''\n\na=[1,2,3,4,5]
-b=[3,4,5,6,7]
-common=[]
-for x in a:
-    if x in b and x not in common: common.append(x)
-print(common)\n
+'''
+find common elements
+'''
+
+first = [1, 2, 3, 4, 5]
+second = [3, 4, 5, 6, 7]
+common = []
+
+for item in first:
+    if item in second and item not in common:
+        common.append(item)
+
+print(common)
